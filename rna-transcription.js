@@ -19,7 +19,7 @@ export const toRna = (val) => {
   {
     var ans = ans+inputMap[val.charAt(i)];
   }
-  
+
   return ans;
   
 
